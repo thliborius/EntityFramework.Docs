@@ -368,3 +368,6 @@ FodyWeavers.xsd
 
 # Rider
 .idea/
+
+# Claude Code local settings (potentially sensitive command arguments)
+**/.claude/settings.local.json
